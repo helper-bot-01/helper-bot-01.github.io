@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-04T01:41:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Assignment Helper Bot</title><subtitle>We are a few bright students who are looking to help struggling students with their assignments and homeworks and possibly tutor them as well. If you need help just text on our whatsapp number. Computer Science, IT related any assignment can be done here. And the cost will depend on the type of task and negotiation. (+60189717552)  Scroll down for seeing our projects.</subtitle><entry><title type="html">Our Projects!</title><link href="http://localhost:4000/projects/2020/06/03/Our-projects.html" rel="alternate" type="text/html" title="Our Projects!" /><published>2020-06-03T22:08:35+08:00</published><updated>2020-06-03T22:08:35+08:00</updated><id>http://localhost:4000/projects/2020/06/03/Our-projects</id><content type="html" xml:base="http://localhost:4000/projects/2020/06/03/Our-projects.html">&lt;p&gt;We have done a lot of different coding projects. Here are links to a few:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Machine Learning : &lt;a href=&quot;https://github.com/helper-bot-01/machine-learning&quot;&gt;Link-Here&lt;/a&gt; for the project.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Display Board : &lt;a href=&quot;https://github.com/helper-bot-01/Display-Board&quot;&gt;Link-Here&lt;/a&gt; for the project. This is also my first ever project.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Java-GUI-Paint : &lt;a href=&quot;https://github.com/helper-bot-01/Java-Gui-Paint&quot;&gt;Link-here&lt;/a&gt; For this project.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Random-Color-Generator : &lt;a href=&quot;https://github.com/helper-bot-01/Random-Color-Generator&quot;&gt;Link-here&lt;/a&gt; for this simple app written with Javascript that generates colors.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">We have done a lot of different coding projects. Here are links to a few:</summary></entry></feed>
